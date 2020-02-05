@@ -1,3 +1,5 @@
-/__pycache__/
-/.DS_Store
-*.class
+/*.DS_Store
+__pycache__/
+.pytest_cache/
+.vscode/
+/*.class
